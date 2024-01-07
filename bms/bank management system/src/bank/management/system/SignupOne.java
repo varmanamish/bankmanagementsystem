@@ -57,6 +57,7 @@ public class SignupOne extends JFrame implements ActionListener{
         dob.setBounds(100, 240, 200, 30);
         add(dob);
         
+        //namish
         dateChooser = new JDateChooser();
         dateChooser.setBounds(300, 240, 200, 30);
         add(dateChooser);
